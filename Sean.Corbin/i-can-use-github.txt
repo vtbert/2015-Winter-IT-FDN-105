@@ -1,0 +1,6 @@
+Corbin - Homework 1 - Creating file with generic text
+
+In your personal folder, create a file named “i-can-use-github.txt”
+Copy some text into that file.
+Save the file.
+Commit that version of the file, with the summary “Baseline”.
