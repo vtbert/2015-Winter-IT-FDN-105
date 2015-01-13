@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("homework-1")]
+[assembly: AssemblyTitle("homework1.1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Toshiba")]
-[assembly: AssemblyProduct("homework-1")]
+[assembly: AssemblyProduct("homework1.1")]
 [assembly: AssemblyCopyright("Copyright © Toshiba 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fb188eb9-4793-4ba2-b646-e0cc9ea2fe74")]
+[assembly: Guid("8544ba7b-e8ea-475a-8508-dcd1f892e2ae")]
 
 // Version information for an assembly consists of the following four values:
 //

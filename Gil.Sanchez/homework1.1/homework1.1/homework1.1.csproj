@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A602589F-DAAA-492D-99EF-8D8C94475225}</ProjectGuid>
+    <ProjectGuid>{5CEB5252-59DF-4BF0-9864-55E52DC1E98B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>homework_1</RootNamespace>
-    <AssemblyName>homework-1</AssemblyName>
+    <RootNamespace>homework1._1</RootNamespace>
+    <AssemblyName>homework1.1</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
